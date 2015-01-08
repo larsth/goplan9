@@ -1,2 +1,2 @@
-Go code for interacting with Plan 9.
-You know the drill.
+moved: go get 9fans.net/go/...
+https://godoc.org/9fans.net/go
